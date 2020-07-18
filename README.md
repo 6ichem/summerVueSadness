@@ -1,4 +1,6 @@
-# summervuesadness
+# summerVueSadness
+
+Basic unfinished weather app that uses OpenWeather API
 
 ## Project setup
 ```
