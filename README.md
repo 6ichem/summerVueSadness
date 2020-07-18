@@ -1,6 +1,6 @@
 # summerVueSadness
 
-Basic unfinished weather app that uses OpenWeather API
+Simple unfinished Vue.js weather app using OpenWeather API - included the assets in case anybody wants to finish it.
 
 ## Project setup
 ```
